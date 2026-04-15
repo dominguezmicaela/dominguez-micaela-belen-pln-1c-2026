@@ -1,0 +1,25 @@
+#Entorno virtual
+venv/
+ENV/
+env/
+.env
+.venv
+pip-log.txt
+pip-delete-this-directory.txt
+
+#Archivos de Datos y Salidas 
+*.json
+*.csv
+*.txt
+*.log
+*.sqlite3
+
+#Jupyter Notebooks (Temporales y Checkpoints)
+.ipynb_checkpoints/
+*/.ipynb_checkpoints/
+__pycache__/
+*.py[cod]
+
+# Archivos de Sistema y VS Code
+.DS_Store
+Thumbs.db
