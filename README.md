@@ -20,10 +20,16 @@ Este repositorio reúne todos los trabajos, notebooks y resolucion de ejercicios
    ```
 
 2. Crear y activar el entorno virtual:
+    **Windows**
    ```bash
    python -m venv venv
    venv\Scripts\Activate.ps1   # Windows
    ```
+   **Linux / macOS**
+```bash
+   python3 -m venv venv
+   source venv/bin/activate
+```
 
 3. Instalar dependencias:
    ```bash
