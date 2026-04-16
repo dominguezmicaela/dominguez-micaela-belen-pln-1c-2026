@@ -23,3 +23,8 @@ __pycache__/
 # Archivos de Sistema y VS Code
 .DS_Store
 Thumbs.db
+# Archivos multimedia pesados
+audios/
+
+# Datos del corpus (si son pesados o no querés compartirlos)
+corpus/
