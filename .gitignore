@@ -28,3 +28,6 @@ audios/
 
 # Datos del corpus (si son pesados o no querés compartirlos)
 corpus/
+# Vectores pre-entrenados
+vectors/
+*.bin.gz
