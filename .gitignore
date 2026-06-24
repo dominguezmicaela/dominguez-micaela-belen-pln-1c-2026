@@ -31,3 +31,4 @@ corpus/
 # Vectores pre-entrenados
 vectors/
 *.bin.gz
+*.pem
