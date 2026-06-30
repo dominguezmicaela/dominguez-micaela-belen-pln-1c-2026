@@ -3,7 +3,12 @@
 Repositorio de proyectos y ejercicios prácticos desarrollados a lo largo de la materia **Procesamiento del Lenguaje Natural**, cursada en 2026.
 
 ---
-Proyecto Integrador Final: [VoxCheck](https://github.com/dominguezmicaela/voxCheck) — Sistema de análisis periodístico con RAG, embeddings semánticos y detección de contradicciones.
+## Trabajo Final PLN:
+[RAG Hidrocarburos Argentina](https://github.com/dominguezmicaela/rag_hidrocarburos) — Sistema RAG sobre normativa de hidrocarburos argentina, con embeddings locales, ChromaDB y sugeridor automático de preguntas. [Demo en vivo](https://huggingface.co/spaces/dominguezmic/RAG_Hidrocarburos)
+
+## Proyecto Integrador Final:
+[VoxCheck](https://github.com/dominguezmicaela/voxCheck) 
+— Sistema de análisis periodístico con RAG, embeddings semánticos y detección de contradicciones.
 ---
 
 ## Descripción
